@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <hr>
+    <hr>
+    <h1><span style="color:brown"><i>Restaurante Hispanica</i></span></h1>
+    <hr>
+    <hr>
+
+    <div>
+        Fecha: <i> 29 de octubre de 2023 </i> <br><br>
+        <Strong>Precio</Strong>: 16,50€<sup>*</sup>
+    </div>
+
+    <div>
+        <p>
+            <strong><u>Primer Plato</u></strong>
+        <ul type="circle">
+            <li><s>Sopa Castellana</s></li>
+            <li><mark>Pasta Carbonara</mark></li>
+            <li>Ensalada de pulpo</li>
+        </ul>
+
+        <strong><u>Segundo plato</u></strong>
+        <ul type="circle">
+            <li>Albondigas con tomate</li>
+            <li>Filetes de pollo al ajillo</li>
+            <li>Ragout de ternera</li>
+        </ul>
+
+        <strong><u>Postre</u></strong><sup>**</sup>
+        <ul type="circle">
+            <li>Tarta de Santiago</li>
+            <li>Tarta de queso</li>
+            <li>Tiramisu</li>
+        </ul>
+
+        </p>
+    </div>
+    <hr>
+    <div>
+        <em>
+            *Bebidas no incluidas en el precio<br>
+            **El postre se podra sustituir por cafe. <br>
+        </em>
+
+    </div>
+
+
+
+
+
+
+
+</body>
+
+</html>
