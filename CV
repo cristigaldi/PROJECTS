@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 style="text-align: center";><span style="background-color:rgb(201, 176, 231)" > Cristina Galan Castresana </span> 
+        <br><br><img 
+        src="IMG/IMG_0076.jpg" 
+        alt="Foto de Cristina"
+        width="100">
+    </h1> 
+
+    <hr> <hr>
+    <p> <em>Telefono:</em> 653302553 <br>
+        <em>Direccion: </em> Madrid <br>
+        <em>Email:</em> Cristi@hotmail.com
+    </p>
+
+    <hr><hr>
+    <h3><span style="color: blueviolet";> <u>Estudios</u></span></h3>
+    <div>
+        <ol>
+            <i> 2023 - Actualmente </i> <br>Grado superios en Desarrollo de Aplicaciones Multiplataforma. <br>
+            Instituto Oficial de Formacion Profesional MEDAC <br><br>
+            <i> 2014 - 2016 </i> <br> Grado superior en Alojamientos Turisticos.<br>
+            Instituto Simone Ortega <br><br>
+
+            Bachillerato <br>
+            Instituto Jaime Ferran Clua
+        </ol>
+    </div>
+
+    <h3><span style="color: blueviolet";> <u>Idiomas</u></span></h3>
+    <div>
+        <ol type="A">
+            <li><em>Ingles</em>: nivel alto <br></li>
+            <li><em>Italiano</em>: nivel bajo-intermedio <br></li>
+        </ol>
+        
+    </div>
+    <h3><span style="color:blueviolet;"> <u>Experiencia profesional</u></span></h3>
+
+    <div> 
+    <ul type="square">
+
+        <li><i><strong>Operations coordinator</strong></i> en Worldstrides desde 2022 - Actualmente</li> 
+        <li><i><strong>Recepcionista de hotel</strong></i> en N Ten Manchester Street hotel desde Jun 2022 a Nov 2022</li>
+        <li><i><strong>Contract coordinator</strong></i> en MikiTravel desde 2018 a 2020</li>
+
+    </ul>
+    </div>
+
+    <h4><span style="color: blueviolet;"> <u>Otros datos</u></span> </h4>
+
+    <div> 
+        <blockquote> <em>Me dedico al turismo desde hace casi 10 años. He vivido en Londres durante 5 años, donde aprendi ingles. Ademas, he podido viajar a diferentes paises como: Jordania, Indonesia, EEUU, etc.</em>
+        </blockquote>
+
+    </div>
+</body>
+
+</html>
