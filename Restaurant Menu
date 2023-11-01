@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 
-<body>
+<body> style="background-color: rgb(253, 240, 222);"><span style="text-align: center" > 
     <hr>
     <hr>
     <h1><span style="color:brown"><i>Restaurante Hispanica</i></span></h1>
@@ -47,14 +47,14 @@
     <hr>
     <div>
         <em>
-            *Bebidas no incluidas en el precio<br>
-            **El postre se podra sustituir por cafe. <br>
+            <mark>*Bebidas no incluidas en el precio</mark><br>
+            <mark>**El postre se podra sustituir por cafe. </mark><br>
         </em>
 
     </div>
 
 
 
-</body>
+</span></body>
 
 </html>
