@@ -22,25 +22,25 @@
     <div>
         <p>
             <strong><u>Primer Plato</u></strong>
-        <ul type="circle">
-            <li><s>Sopa Castellana</s></li>
-            <li><mark>Pasta Carbonara</mark></li>
-            <li>Ensalada de pulpo</li>
-        </ul>
+        <lo><br>
+            <l><s>Sopa Castellana</s></l><br>
+            <l><mark>Pasta Carbonara</mark></l><br>
+            <l>Ensalada de pulpo</l>
+        </lo><br> <br>
 
         <strong><u>Segundo plato</u></strong>
-        <ul type="circle">
-            <li>Albondigas con tomate</li>
-            <li>Filetes de pollo al ajillo</li>
-            <li>Ragout de ternera</li>
-        </ul>
+        <lo> <br>
+            <l>Albondigas con tomate</l> <br>
+            <l>Filetes de pollo al ajillo</l> <br>
+            <l>Ragout de ternera</l> <br>
+        </lo><br>
 
-        <strong><u>Postre</u></strong><sup>**</sup>
-        <ul type="circle">
-            <li>Tarta de Santiago</li>
-            <li>Tarta de queso</li>
-            <li>Tiramisu</li>
-        </ul>
+        <strong><u>Postre</u></strong><sup>**</sup><br>
+        <lo type="circle">
+            <l></l>Tarta de Santiago</l><br>
+            <l>Tarta de queso</l><br>
+            <l>Tiramisu</l><br>
+        </lo>
 
         </p>
     </div>
@@ -52,10 +52,6 @@
         </em>
 
     </div>
-
-
-
-
 
 
 
